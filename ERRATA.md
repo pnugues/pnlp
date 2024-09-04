@@ -10,4 +10,4 @@ page 144, line 12: Replace 0.370 with 4.370
 page 149, Table 6.5, last column: Replace 0.01889 with 0.01902
 
 ### Chapter 8
-page 198, first line: Replace tol with to
+page 198, first line: Replace *tol* with *to*
