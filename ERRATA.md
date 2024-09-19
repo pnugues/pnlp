@@ -31,4 +31,5 @@ page 356, two lines from the bottom, replace:
 `     '|\p{L}+', 'celebration'[::-1])[::-1]))`
 
 with
+
 `     r'|\p{L}+', 'celebration'[::-1])[::-1]))`
