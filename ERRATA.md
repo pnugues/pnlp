@@ -4,6 +4,9 @@
 ### Chapter 3
 page 77, line 12: Replace `'(.{0,20}Hector(?=.{0,20}))'` with `'.{0,20}Hector(?=.{0,20})'`
 
+### Chapter 4
+page 99, line 17: Replace *these paramaters* with *these parameters*
+
 ### Chapter 6
 page 144, line 12: Replace 0.370 with 4.370
 
