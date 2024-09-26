@@ -23,6 +23,15 @@ https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.tex
 ### Chapter 10
 Sect. 10.9.2, pages 279-282. The programs could be a bit simplified. See the new version of the notebook, `10_01_ngrams.ipynb`
 
+### Chapter 11
+Sect. 11.5.1, page 295, replace:
+
+`words = re.findall('\p{L}+', text)`
+
+with 
+
+`words = re.findall(r'\p{L}+', text)`
+
 ### Chapter 13
 page 356, five lines from the bottom, replace:
 
