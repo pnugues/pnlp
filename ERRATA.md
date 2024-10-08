@@ -48,3 +48,11 @@ page 356, two lines from the bottom, replace:
 with
 
 `     r'|\p{L}+', 'celebration'[::-1])[::-1]))`
+
+page 375, replace:
+
+`>>> unigram.encode('therefore')`
+
+with
+
+`>>> unigram.encode('there')`
