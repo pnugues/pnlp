@@ -56,3 +56,6 @@ page 375, replace:
 with
 
 `>>> unigram.encode('there')`
+
+### Chapter 17
+p. 477, second item in the list, first line: replace _equiped_ with _equipped_
