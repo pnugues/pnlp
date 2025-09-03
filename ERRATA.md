@@ -2,6 +2,8 @@
 ## List of errata
 
 ### Chapter 3
+page 65, Sect. 3.3.2, 2nd paragraph: Remove the odd code sequences `{{{{\TagInImg{{}\protect\mathimg{\InEq{$}` and `{$}}}}}}}` 
+
 page 77, line 12: Replace `'(.{0,20}Hector(?=.{0,20}))'` with `'.{0,20}Hector(?=.{0,20})'`
 
 ### Chapter 4
