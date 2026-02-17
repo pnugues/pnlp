@@ -59,5 +59,9 @@ with
 
 `>>> unigram.encode('there')`
 
+### Chapter 14
+page 420, Sect. 14.12.4, enumerated list, last sentence, read:
+_This layer uses a set of indicator functions limited to bigram transition scores and the LSTM logit outputs_
+
 ### Chapter 17
 p. 477, second item in the list, first line: replace _equiped_ with _equipped_
